@@ -4,4 +4,3 @@ Sou desenvolvedor android júnior👨‍💻, gosto muito da área principalment
 
 No meu tempo livre busco sempre aprender e treinar inglês e espanhol.🚀
 
-[![Instagram Badge]
