@@ -4,3 +4,5 @@ Sou desenvolvedor android júnior👨‍💻, gosto muito da área principalment
 
 No meu tempo livre busco sempre aprender e treinar inglês e espanhol.🚀
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-aleixo-067865200/)](https://www.linkedin.com/in/nicolas-aleixo-067865200/)
+
