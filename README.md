@@ -13,8 +13,6 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 <code><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> </code>
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
-<div>
   ![Snake animation](https://github.com/Aleixo-dev/Aleixo-dev/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
