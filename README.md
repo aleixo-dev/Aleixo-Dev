@@ -11,8 +11,8 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 
 
 <div style="display: inline_block">
- <img align="center" alt="Nicolas-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/Kotlin/Kotlin.png">
-  <img align="center" alt="Nicolas-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ <img align="center" alt="Nicolas-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.jpg">
+  <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.jpg">
 </div>
 
 ##
