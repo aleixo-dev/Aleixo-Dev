@@ -4,6 +4,14 @@
 
 No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 
+## Languages and Tools:
+[![Nicolas Github stats
+
+
+https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-aleixo-067865200/)](https://www.linkedin.com/in/nicolas-aleixo-067865200/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nicolas09aa/?hl=pt-br)](https://www.instagram.com/nicolas09aa/?hl=pt-br)
 
