@@ -7,6 +7,9 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 ## Languages and Tools:
 [![Nicolas Github stats
 
+[![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <cod><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
