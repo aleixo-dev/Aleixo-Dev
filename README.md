@@ -15,8 +15,12 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
+##
 
-<code><img height="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> </code>
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<div>
+ <a href="https://www.instagram.com/nicolas09aa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/nicolas-aleixo/"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+ </div>
 
 
