@@ -7,7 +7,7 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 ## Languages and Tools:
 
 [![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo-dev)](https://github.com/aleixo-dev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev)](https://github.com/aleixo-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact)](https://github.com/aleixo-dev/github-readme-stats)
 
 
 <div style="display: inline_block">
