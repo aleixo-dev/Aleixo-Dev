@@ -4,6 +4,8 @@
 
 No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="360" height="400" />
+
 ## Languages and Tools:
 
 [![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo-dev)](https://github.com/aleixo-dev/github-readme-stats)
