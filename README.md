@@ -1,12 +1,12 @@
 # Olá, Eu sou o Nicolas Aleixo ✌️
 
-    👨‍💻Sou Desenvolvedor Android Júnior, uma área onde sou apaixonado por desenvolver aplicativos nativo para android
-    utilizando as linguagens Java e Kotlin. Sempre tive curiosidade, vontade e muito interesse de aprender sobre como 
-    funcionava o desenvolvimento de aplicativos android, onde hoje sou completamente focado e dedicando todo meu tempo. 
-    Sempre busco estudar, aprimorar e praticar meu conhecimentos Dev Android, aprendendo os principais recursos, 
-    arquiteturas, frameworks e bibliotecas utilizadas atualmente.
+👨‍💻Sou Desenvolvedor Android Júnior, uma área onde sou apaixonado por desenvolver aplicativos nativo para android
+utilizando as linguagens Java e Kotlin. Sempre tive curiosidade, vontade e muito interesse de aprender sobre como 
+funcionava o desenvolvimento de aplicativos android, onde hoje sou completamente focado e dedicando todo meu tempo. 
+Sempre busco estudar, aprimorar e praticar meu conhecimentos Dev Android, aprendendo os principais recursos, 
+arquiteturas, frameworks e bibliotecas utilizadas atualmente.
     
-    No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
+No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="700" height="400" />
