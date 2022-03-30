@@ -6,6 +6,7 @@ funcionava o desenvolvimento de aplicativos android, onde hoje sou completamente
 Sempre busco estudar, aprimorar e praticar meu conhecimentos Dev Android, aprendendo os principais recursos, 
 arquiteturas, frameworks e bibliotecas utilizadas atualmente.
     
+    
 No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 
 
