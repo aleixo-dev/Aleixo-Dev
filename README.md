@@ -34,5 +34,5 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
  <a href="nicolasaleixo2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
 
-![Snake animation](https://github.com/aleixo-dev/aleixo-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aleixo-Dev/Aleixo-Dev/blob/output/github-contribution-grid-snake.svg)
 
