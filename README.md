@@ -16,7 +16,7 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 
 <div>
     <img height="175em" width="500" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true"/>
-    <img height="175em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=16&theme=dracula" />
+    <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 ##
@@ -33,6 +33,8 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
  <a href="https://www.linkedin.com/in/nicolas-aleixo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="nicolasaleixo2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
+    
+##
 
 ![Snake animation](https://github.com/Aleixo-Dev/Aleixo-Dev/blob/output/github-contribution-grid-snake.svg)
 
