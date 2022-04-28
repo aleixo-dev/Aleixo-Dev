@@ -14,9 +14,12 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 
 ## Languages and Tools:
 
-[![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo-dev)](https://github.com/aleixo-dev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact)](https://github.com/aleixo-dev/github-readme-stats)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=16&theme=dracula" />
+</div>
 
+##
 
 <div style="display: inline_block">
  <img align="center" alt="Nicolas-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
