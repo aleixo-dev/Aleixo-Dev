@@ -15,8 +15,8 @@ No meu tempo livre busco lêr livros e treinar inglês e espanhol.🚀
 ## Languages and Tools:
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=16&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=github_dark&inclue_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=7&theme=github_dark" />
 </div>
 
 ##
