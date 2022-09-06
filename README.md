@@ -4,13 +4,14 @@
 
 - 🚀 No meu tempo livre busco lêr e treinar inglês.
 
+##
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="700" height="400" />
 
 ##
 
 <div align="center">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
