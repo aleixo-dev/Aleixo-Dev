@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true" />
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
