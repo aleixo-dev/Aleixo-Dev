@@ -17,22 +17,19 @@
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
+<!-- <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="700" height="400" /> -->
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleixo-Dev&theme=dracula&border_radius=4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)  -->
+ 
 ##
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="700" height="400" />
-
-##
-
-<div align="start">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true" />
+<div style="display: inline_block">
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Aleixo-Dev&theme=dracula&border_radius=4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true" />
 </div>
 
-##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleixo-Dev&theme=dracula&border_radius=4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) 
 
-##
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=7&theme=dracula" />
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=7&theme=dracula" /> -->
 
 ##
     
