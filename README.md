@@ -4,6 +4,8 @@
 
 - 🚀 No meu tempo livre busco lêr e treinar inglês.
 
+[![](https://visitcount.itsvg.in/api?id=Aleixo-Dev&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ##
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="700" height="400" />
@@ -16,8 +18,9 @@
 </div>
 
 ##
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleixo-Dev&theme=dracula&border_radius=4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <div style="display: inline_block">
+
  <img align="center" alt="Nicolas-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
