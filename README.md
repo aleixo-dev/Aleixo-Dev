@@ -12,15 +12,14 @@
 
 ##
 
-<div align="center">
+<div align="start">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&show_icons=true&theme=dracula&inclue_all_commits=true&count_private=true" />
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleixo-Dev&theme=dracula&border_radius=4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&langs_count=7&theme=dracula" />
 <div style="display: inline_block">
-
  <img align="center" alt="Nicolas-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
