@@ -2,7 +2,7 @@
 
 👨‍💻 Sou Desenvolvedor Android Júnior. Uma área onde sou apaixonado por desenvolver aplicativos nativo para android utilizando as linguagens Java e Kotlin. Sempre tive curiosidade, vontade e muito interesse de aprender sobre como funcionava o desenvolvimento de aplicativos android, onde hoje sou completamente focado e dedicando todo meu tempo. Sempre busco estudar, aprimorar e praticar meu conhecimentos Dev Android. Aprendendo os principais recursos, arquiteturas, frameworks e bibliotecas utilizadas atualmente.
 
-- 🚀 No meu tempo livre procuro lêr, treinar inglês e aprender ainda mais.
+- 🚀No meu tempo livre procuro lêr, treinar inglês e aprender ainda mais.
 
 [![](https://visitcount.itsvg.in/api?id=Aleixo-Dev&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
