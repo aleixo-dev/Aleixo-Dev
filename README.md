@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Junior Android Developer. An area where I am passionate about developing native applications for Android using Java and Kotlin languages. I've always been curious, willing and very interested in learning how Android application development worked, where today I'm fully focused and dedicating all my time. I always seek to study, improve and practice my knowledge of Android Dev. I research and learn the main resources, architectures, frameworks and libraries currently used.
 
-- 🚀 In my free time I try to train English and learn even more.
+- 📚 In my free time I try to train English and learn even more.
 
 [![](https://visitcount.itsvg.in/api?id=Aleixo-Dev&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
