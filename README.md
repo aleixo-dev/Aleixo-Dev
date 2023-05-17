@@ -1,4 +1,4 @@
-<img src="https://github.com/Aleixo-Dev/Aleixo-Dev/assets/75820713/04eb7d0c-6057-4ea0-b7c1-e994779023c2" height="300px" width="400px" align="right">
+<img src="https://github.com/Aleixo-Dev/Aleixo-Dev/assets/75820713/04eb7d0c-6057-4ea0-b7c1-e994779023c2" height="300px" width="350px" align="right">
      
 <p align="left">
  
@@ -18,7 +18,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aleixo-Dev&theme=dracula&border_radius=4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)  -->
  
-## Tools
+## ⚒️ Tools
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
  ![Inteliij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  
