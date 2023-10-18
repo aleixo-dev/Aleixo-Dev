@@ -23,7 +23,3 @@
  ![Inteliij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo-dev&bg_color=30,020024,092c79&title_color=fff&show_icons=true&text_color=fff)
-
-##
-    
-![Snake animation](https://github.com/Aleixo-Dev/Aleixo-Dev/blob/output/github-contribution-grid-snake.svg)
