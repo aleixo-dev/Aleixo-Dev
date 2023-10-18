@@ -1,18 +1,15 @@
-<img src="https://github.com/Aleixo-Dev/Aleixo-Dev/assets/75820713/04eb7d0c-6057-4ea0-b7c1-e994779023c2" height="300px" width="350px" align="right">
-     
 <p align="left">
  
 ## Hello, I'm Nicolas Aleixo ✌️
 
-👨‍💻 I'm a Android Developer. An area where I am passionate about developing native applications for Android using Java and Kotlin languages. I've always been curious, willing and very interested in learning how Android application development worked, where today I'm fully focused and dedicating all my time. I always seek to study, improve and practice my knowledge of Android Dev. I research and learn the main resources, architectures, frameworks and libraries currently used.
-
-- 📚 In my free time I try to train English and learn even more
+- 🫡 I'm Android Developer, developing native applications for Android using **Java** and **Kotlin**
+- 👨‍💻 Android Developer at @enjoei
  
 <a href="https://www.linkedin.com/in/nicolas-aleixo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
  ## 👨‍💻 Languages
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!-- <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="700" height="400" /> -->
 
