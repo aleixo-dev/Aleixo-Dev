@@ -6,10 +6,10 @@
 - 🚀 Programming enthusiast.
 - 👨‍💻 I have fun creating plugins for Minecraft, Android Applications and Creating my own Apis
 
-<div align="center">
+<div align="start">
  <a href-"https://github.com/aleixo-dev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&theme=dracula&include_all_commits=true&show_icons=true" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&theme=dracula&count_private=true" />
 </div>
  
 <a href="https://www.linkedin.com/in/nicolas-aleixo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
