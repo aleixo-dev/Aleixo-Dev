@@ -1,6 +1,6 @@
 <p align="left">
  
-## Hello, I'm Nicolas Aleixo ✌️
+## Hello, I'm Nicolas Aleixo 🫡
 
 - 🫡 I'm Android Developer, developing native applications for Android using **Kotlin** and **Java**
 - 🚀 Programming enthusiast.
