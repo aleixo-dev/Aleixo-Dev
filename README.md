@@ -4,7 +4,7 @@
 
 - 🫡 I'm Android Developer, developing native applications for Android using **Kotlin** and **Java**.
 - 🚀 Programming enthusiast.
-- 👨‍💻 I have fun creating plugins for Minecraft, android applications and create my own apis.
+- 👨‍💻 I have fun creating plugins for Minecraft, android applications and create my own Apis.
 
 <div align="start">
  <a href-"https://github.com/aleixo-dev">
