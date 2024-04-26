@@ -2,7 +2,7 @@
  
 ## Hello, I'm Nicolas Aleixo 👩‍💻
 
-- 👨‍💻 I'm Android Developer, developing native applications for Android using **Kotlin** and **Java**.
+- 👨‍💻 I'm Android Developer, developing native applications for Android using **Kotlin** and **Java**..
 - 🫡 Programming enthusiast.
 - 🚀 I have fun creating plugins for Minecraft, android applications and create my own Apis.
 
