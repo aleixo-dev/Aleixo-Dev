@@ -11,9 +11,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&theme=light&include_all_commits=true&count_prive=true&show_icons=true" />
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&theme=light" />
 </div>
-
-### I'm currently doing...
-[![Discord Presence](https://lanyard.cnrad.dev/api/789822101674131506)](https://discord.com/users/789822101674131506)
  
 ### 👨‍💻 Languages & Development Stack
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
