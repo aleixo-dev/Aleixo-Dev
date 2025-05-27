@@ -9,7 +9,7 @@
 <div align="start">
  <a href-"https://github.com/aleixo-dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&theme=light&include_all_commits=true&count_prive=true&show_icons=true" />
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&theme=light" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&theme=light&count_prive=false" />
 </div>
  
 ### 👨‍💻 Languages & Development Stack
