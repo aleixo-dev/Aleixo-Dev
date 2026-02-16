@@ -5,12 +5,6 @@
 - 👨‍💻 I'm Android Software Enginner, developing native applications for Android using **Kotlin** and **Java**
 - 🫡 Programming Enthusiast.
 - 🚀 I have fun creating Android Applications and plugins for Minecraft.
-
-<div align="start">
- <a href-"https://github.com/aleixo-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aleixo-dev&theme=dracula&include_all_commits=true&count_prive=true&show_icons=true" />
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo-dev&layout=compact&theme=dracula&count_prive=false" />
-</div>
  
 ### 👨‍💻 Languages & Development Stack
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
