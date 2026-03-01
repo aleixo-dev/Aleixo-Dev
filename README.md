@@ -2,7 +2,7 @@
  
 ### Hello, I'm Nicolas Aleixo 👩‍💻
 - 👨‍💻 I'm Android Software Engineer, developing applications for Android using **Kotlin** and **Java**
-   - I mostly work on android ecosystem stuff - Android Jetpack, Jetpack Compose, Kotlin Multiplatform, Android Sdk.
+   - I mostly work on android ecosystem stuff - Android Jetpack, Compose, Kotlin Multiplatform, Android Sdk.
 - 🧱 I also create Minecraft plugins for fun using Spigot and PaperAPIs.
 - 🫡 Programming Enthusiast.
 - --
